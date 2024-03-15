@@ -2,6 +2,8 @@
 
 This project is a simple web application that displays a list of stores along with their locations on a map. It utilizes the Leaflet library for mapping functionality and OpenStreetMap for map tiles.
 
+## Live Link 🔗 : https://chickisnak.github.io/Store-Locator/
+
 ## Files Included :
 1. `Index.html` -> HTML file that contains the structure of the web page.
 2. `Style.css` -> CSS file for styling the HTML elements.
